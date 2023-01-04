@@ -87,7 +87,7 @@ class _MyAppState extends State<MyApp> {
         ///language
 
 
-        // home: const MyHomePage(title: 'Flutter Demo Home Page'),
+        home: const MyHomePage(title: 'Flutter Demo Home Page'),
         // home: const MyContainer()
         // home: const MyCenter()
         // home: const MyColumn()
@@ -117,7 +117,7 @@ class _MyAppState extends State<MyApp> {
         // home: const Translation()
 
         // home: const ApiRequest()
-        home: const MyJsonDecoder()
+        // home: const MyJsonDecoder()
 
         ///for test
         // home: MyHomePage(title: "Home Work 2")
